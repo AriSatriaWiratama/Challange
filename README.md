@@ -1,2 +1,0 @@
-# Challange
-Latihan Challange Binar
